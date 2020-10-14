@@ -21,7 +21,7 @@ th,td{
     vertical-align: auto;
 	border: 1px solid #000;
 }
- /* #cellhover{
+ td:hover{
     border: 2px solid red;
     font-weight: bold;
-}  */
+} 
